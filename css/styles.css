@@ -1,0 +1,41 @@
+body {
+    margin: auto;
+    width: 100%;
+    background-image: url(https://www.freegreatpicture.com/files/photo108/53853-month-year-calendar-wallpapers.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.top-container {
+    margin-top: 13%;
+    position: relative;
+    align-items: center;
+    top: 10%;
+    left: 15%;
+    padding-bottom: 6px;
+}
+
+.form-container {
+    position: relative;
+    left: 15%;
+}
+
+h1 {
+    font-family: 'Staatliches', cursive;
+    font-size: 3.8rem;
+    line-height: 0.3;
+    color: whitesmoke;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    line-height: 0;
+    color: whitesmoke;
+}
+
+
+#btn {
+    height: 10px;
+
+}
